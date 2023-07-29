@@ -1,13 +1,10 @@
 # Essense of Linear Algebra
 
-##  简介
+&emsp;&emsp;本项目主要基于[《Essense of Linear Algebra》](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)系列视频，对该系列视频涉及的线性代数可视化做笔记记录，方便以后复习使用。
 
-本章节对`3b1b`大佬做的[线性代数的本质](https://www.bilibili.com/video/BV1ys411472E/?spm_id_from=333.999.0.0&vd_source=61c3f696848d48c33298883fd1df4ef0)视频，做一个总结性记录，表示对大佬的膜拜。
-
-## 目录
+## 内容导航
 
 * [1 - 向量究竟是什么？](./1%20-%20向量究竟是什么？)
-
 * [2 - 线性组合、张成的空间与基](./2%20-%20线性组合、张成的空间与基)
 * [3 - 矩阵与线性变换](./3%20-%20矩阵与线性变换)
 * [4 - 矩阵乘法与线性变换复合](./4%20-%20矩阵乘法与线性变换复合)
